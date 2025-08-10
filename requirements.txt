@@ -1,0 +1,9 @@
+torch
+numpy
+scipy
+scikit-learn
+matplotlib
+pandas
+tqdm
+wfdb
+scikit-optimize
