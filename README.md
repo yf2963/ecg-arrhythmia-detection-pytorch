@@ -154,4 +154,4 @@ MIT License — see LICENSE file for details.
 
 ## Author
 **Yousouf Farooq** – Georgia Tech, Biomedical Engineering & Computer Science  
-Contact: [your.email@example.com]
+Contact: [yousouffarooq@gmail.com]
