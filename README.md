@@ -60,6 +60,15 @@ The models are trained and evaluated on publicly available ECG datasets from **[
 
 ---
 
+### Data Splits
+For each dataset, recordings were split into:
+
+70% training
+15% validation
+15% test
+
+Splits were stratified by class to maintain label balance across sets and patient-independent.
+
 ## Repository Structure
 ```
 ├── afib.py                  # AFib specialist model & training script
