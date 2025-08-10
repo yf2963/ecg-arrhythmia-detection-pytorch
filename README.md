@@ -87,7 +87,7 @@ Splits were stratified by class to maintain label balance across sets and patien
 ## Installation
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/ecg-arrhythmia-detection-pytorch.git
+git clone https://github.com/yf2963/ecg-arrhythmia-detection-pytorch.git
 cd ecg-arrhythmia-detection-pytorch
 
 # Create a virtual environment
